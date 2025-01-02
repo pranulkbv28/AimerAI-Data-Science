@@ -4,13 +4,23 @@
 
 ## Features of Python
 
-- **HLL**
-- **Beginner Friendly**
-- **Cross Platform Support**
-- **Dynamically Typed Language**
-- **Functional + Object Oriented**
-- **Plethora of Library**
-- **Wide Application Area**
-- **Huge Demand in Industry**
-- **Fast Prototyping**
-- **Multi paradigm language**
+- **HLL**: High Level Language
+- **Beginner Friendly**: Easy to learn
+- **Cross Platform Support**: Windows, Linux, Mac
+- **Dynamically Typed Language**: No need to declare the type of variable
+- **Functional + Object Oriented**: Supports both paradigms
+- **Plethora of Library**: For AI, ML, Data Science, Web Development, etc.
+- **Wide Application Area**: AI, ML, Data Science, Web Development, Automation, etc.
+- **Huge Demand in Industry**: Due to its wide application area
+- **Fast Prototyping**: Due to its easy syntax
+- **Multi paradigm language**: Supports imperative, functional, procedural, and object-oriented programming paradigms
+
+## Application
+
+- **Server Side Web Development**
+- **Software Development**
+- **Big Data**
+- **Databases**
+- **Prototyping**
+- **Automation**
+- **Scripting**

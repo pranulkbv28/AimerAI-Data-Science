@@ -32,5 +32,5 @@
 - **[Type Conversions and Conditions](./type_conversions_and_conditions.py)**
 - **[Loops and Control Flow Pt. 1](./loops_and_control_flow.py)**
 - **[Loops and Control Flow Pt.2](./loops_and_control_flow_2.py)**
-- **[Namespaces Pt.1](./namespaces.py)**
-- **[Namespaces Pt.2](./namespaces_2.py)**
+- **[Namespaces](./namespaces.py)**
+- **[String Objects](./string_objects.py)**

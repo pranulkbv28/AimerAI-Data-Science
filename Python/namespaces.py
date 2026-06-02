@@ -7,7 +7,7 @@
 #    This namespace contains the names of all built-in functions and objects in Python.
 #    These names are always available in any Python program.
 
-print(len("Hello"))  # 'len' is a built-in function
+print(len("Hello"))  # 'len' is a built-in function - It gives the length of the string
 
 # 2. Global Namespace:
 #    This namespace contains names defined at the top level of a module or script.

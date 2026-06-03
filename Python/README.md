@@ -36,7 +36,11 @@
 - **[String Objects](./string_objects.py)**
 - **[List Objects](./list_object.py)**
 - **[Tuples Set Dictionaries & Its Function](./tuples_set_dictionaries_and_its_functions.py)**
+- **[Functions in Python](./functions_in_python.py)**
+
+- **[OOPs in Python](./Object%20Oriented%20Programming/)**
 
 ## Notes
 
 - [Python Notes](./Python%20Notes/)
+- [OOPs Notes](./Python%20Notes/OOPs/)

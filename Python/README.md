@@ -34,6 +34,8 @@
 - **[Loops and Control Flow Pt.2](./loops_and_control_flow_2.py)**
 - **[Namespaces](./namespaces.py)**
 - **[String Objects](./string_objects.py)**
+- **[List Objects](./list_object.py)**
+- **[Tuples Set Dictionaries & Its Function](./tuples_set_dictionaries_and_its_functions.py)**
 
 ## Notes
 

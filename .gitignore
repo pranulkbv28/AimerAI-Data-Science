@@ -1,9 +1,22 @@
+# Project IDX
 .idx
 .idx/
 .idx/*
 
-.vscode
+# Virtual env
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
 .vscode/
+.vscode
 .vscode/*
 
-**/.DS_Store
+# macOS
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
